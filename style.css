@@ -1,0 +1,29 @@
+* {
+    margin: 0 auto;
+}
+
+body{
+    background-color: navy;
+}
+
+#box{
+    background-color: white;
+    border: 2px solid black;
+    height: 250px;
+    width: 600px;
+}
+
+#top{
+    display: flex;
+    margin-top: 25px;
+}
+
+button{
+    background-color: orangered;
+    box-shadow: 2px 2px black;
+    width: 100px;
+}
+
+p{
+    margin: 25px;
+}
